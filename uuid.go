@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"nullprogram.com/x/isaac64"
+	"github.com/stellarentropy/isaac64"
 )
 
 var (

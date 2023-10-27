@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"nullprogram.com/x/uuid"
+	"github.com/stellarentropy/uuid"
 )
 
 func main() {

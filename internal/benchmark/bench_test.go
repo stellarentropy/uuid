@@ -5,7 +5,7 @@ import (
 
 	google "github.com/google/uuid"
 	gofrs "github.com/gofrs/uuid"
-	self "nullprogram.com/x/uuid"
+	self "github.com/stellarentropy/uuid"
 )
 
 func BenchmarkSelf(b *testing.B) {

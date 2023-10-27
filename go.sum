@@ -1,2 +1,2 @@
-nullprogram.com/x/isaac64 v1.0.0 h1:60wAUcmF8LI7bqmIR84aCviOFYsZ16uzVVQwEv0KMo0=
-nullprogram.com/x/isaac64 v1.0.0/go.mod h1:50jMhq3WThwRpM4z6xTHwp94BMqha3WbuKWb2vRxr78=
+github.com/stellarentropy/isaac64 v0.0.0-20231027223639-d0cef4761baf h1:1gvCX8I365jdAHyHQ7lT8UxXmjZg8b61og+cCca8LLg=
+github.com/stellarentropy/isaac64 v0.0.0-20231027223639-d0cef4761baf/go.mod h1:8ZGAytVjsCaaabqDqj+i6r0IuuQmBIg6afecAWVANsw=

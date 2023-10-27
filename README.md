@@ -13,7 +13,7 @@ internal CSPRNG. Operating system entropy is only used to seed the
 generator once. Other libraries read 16 bytes of operating system
 entropy for each UUID, which is why they're slower and can fail.
 
-API documentation: <https://pkg.go.dev/nullprogram.com/x/uuid>
+API documentation: <https://pkg.go.dev/github.com/stellarentropy/uuid>
 
 ## Example usage
 
@@ -24,7 +24,7 @@ import (
 	"flag"
 	"fmt"
 
-	"nullprogram.com/x/uuid"
+	"github.com/stellarentropy/uuid"
 )
 
 func main() {
