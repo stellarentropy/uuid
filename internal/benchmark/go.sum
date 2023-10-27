@@ -1,0 +1,8 @@
+github.com/gofrs/uuid v3.3.0+incompatible h1:8K4tyRfvU1CYPgJsveYFQMhpFd/wXNM7iK6rR7UHz84=
+github.com/gofrs/uuid v3.3.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/stellarentropy/isaac64 v0.0.0-20231027223639-d0cef4761baf h1:1gvCX8I365jdAHyHQ7lT8UxXmjZg8b61og+cCca8LLg=
+github.com/stellarentropy/isaac64 v0.0.0-20231027223639-d0cef4761baf/go.mod h1:8ZGAytVjsCaaabqDqj+i6r0IuuQmBIg6afecAWVANsw=
+github.com/stellarentropy/uuid v0.0.0-20231027223834-3cab34dbbc4b h1:hmHkTskfURWGKEWvO4IDDWlxRLTP2imAX5/aFwYT0qc=
+github.com/stellarentropy/uuid v0.0.0-20231027223834-3cab34dbbc4b/go.mod h1:IQLx1uXV9z7AZ1oGY0ve4yES0+DVFs9L0ANkz7tkdOw=
