@@ -3,8 +3,8 @@ package bench
 import (
 	"testing"
 
-	google "github.com/google/uuid"
 	gofrs "github.com/gofrs/uuid"
+	google "github.com/google/uuid"
 	self "github.com/stellarentropy/uuid"
 )
 
@@ -26,6 +26,13 @@ func BenchmarkGofrs(b *testing.B) {
 }
 
 func BenchmarkGoogle(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		google.New()
+	}
+}
+
+func BenchmarkGoogleWithRandPool(b *testing.B) {
+	google.EnableRandPool()
 	for i := 0; i < b.N; i++ {
 		google.New()
 	}
